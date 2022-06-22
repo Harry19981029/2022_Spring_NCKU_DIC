@@ -1,4 +1,4 @@
-# NCKU_Digital Integrated circuit
+# NCKU_Digital Integrated Circuit
 HW1: Arithmetic logic unit
 
 HW2: Traffic Light System
